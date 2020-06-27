@@ -6,7 +6,7 @@
     "description": {
         "text": "LinuxGSM is the command-line tool for quick, simple deployment and management of Linux dedicated game servers."
     },
-    "logo": "https://github.com/dynacentri/Jelastic-LinuxGSM/raw/master/images/LinuxGSM_colour_white_logo.svg",
+    "logo": "https://raw.githubusercontent.com/dynacentri/Jelastic-LinuxGSM/master/images/LinuxGSM.png",
     "homepage": "https://linuxgsm.com/",
     "categories": [
         "apps/entertainment"
