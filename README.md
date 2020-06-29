@@ -1,2 +1,2 @@
-# Jelastic-LinuxGSM (Work-In-Progress, not production ready.)
+# Jelastic-LinuxGSM (Work-In-Progress)
 One-Click Installer for LinuxGSM Game Servers
